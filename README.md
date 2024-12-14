@@ -45,7 +45,7 @@ A Flutter application designed for seamless blog creation and viewing, offering 
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/blog-app.git  
+   git clone https://github.com/Sumit-9900/Blog-App.git
    cd blog-app  
 2. Install dependencies:
     ```bash
